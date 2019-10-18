@@ -1,0 +1,60 @@
+Info [2019-10-9 6:41:50]CELLLog::setLogPath success,<clientLog.txt,w>
+Info [2019-10-9 6:41:50]thread<1>,start
+Info [2019-10-9 6:41:50]thread<2>,start
+Info [2019-10-9 6:41:50]thread<3>,start
+Info [2019-10-9 6:41:50]thread<4>,start
+Info [2019-10-9 6:41:51]thread<4>,clients<1000>,time<1.000712>,send<0>
+Info [2019-10-9 6:41:52]thread<4>,clients<1000>,time<1.000025>,send<0>
+Info [2019-10-9 6:41:53]thread<4>,clients<1000>,time<1.001116>,send<0>
+Info [2019-10-9 6:41:54]thread<4>,clients<1000>,time<1.001053>,send<0>
+Info [2019-10-9 6:41:58]thread<4>,clients<1000>,time<1.000104>,send<0>
+Info [2019-10-9 6:41:58]thread<4>,clients<1000>,time<1.001164>,send<0>
+Info [2019-10-9 6:41:58]thread<4>,clients<1000>,time<1.000380>,send<0>
+Info [2019-10-9 6:41:58]thread<4>,clients<1000>,time<1.000036>,send<0>
+Info [2019-10-9 6:41:59]thread<4>,clients<1000>,time<1.001031>,send<0>
+Info [2019-10-9 6:42:0]thread<4>,clients<1000>,time<1.001037>,send<0>
+Info [2019-10-9 6:42:1]thread<4>,clients<1000>,time<1.000049>,send<0>
+Info [2019-10-9 6:42:2]thread<4>,clients<1000>,time<1.000100>,send<0>
+Info [2019-10-9 6:42:3]thread<4>,clients<1000>,time<1.001011>,send<0>
+Info [2019-10-9 6:42:4]thread<4>,clients<1000>,time<1.001011>,send<0>
+Info [2019-10-9 6:42:5]thread<4>,clients<1000>,time<1.001041>,send<0>
+Info [2019-10-9 6:42:6]thread<4>,clients<1000>,time<1.000131>,send<0>
+Info [2019-10-9 6:42:7]thread<4>,clients<1000>,time<1.001386>,send<0>
+Info [2019-10-9 6:42:8]thread<4>,clients<1000>,time<1.000890>,send<0>
+Info [2019-10-9 6:42:8]不支持的命令。
+Info [2019-10-9 6:42:9]thread<4>,clients<1000>,time<1.000044>,send<0>
+Info [2019-10-9 6:42:10]thread<4>,clients<1000>,time<1.000007>,send<0>
+Info [2019-10-9 6:42:11]<socket=252> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:11]<socket=200> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:11]<socket=256> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:11]<socket=248> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:11]thread<4>,clients<1000>,time<1.000192>,send<0>
+Info [2019-10-9 6:42:11]不支持的命令。
+Info [2019-10-9 6:42:12]thread<4>,clients<1000>,time<1.001906>,send<0>
+Info [2019-10-9 6:42:13]thread<4>,clients<1000>,time<1.000995>,send<0>
+Info [2019-10-9 6:42:14]thread<4>,clients<1000>,time<1.001034>,send<0>
+Info [2019-10-9 6:42:15]thread<4>,clients<1000>,time<1.000102>,send<0>
+Info [2019-10-9 6:42:16]thread<4>,clients<1000>,time<1.001078>,send<0>
+Info [2019-10-9 6:42:17]thread<4>,clients<1000>,time<1.000998>,send<0>
+Info [2019-10-9 6:42:18]thread<4>,clients<1000>,time<1.001465>,send<0>
+Info [2019-10-9 6:42:19]thread<4>,clients<1000>,time<1.000009>,send<0>
+Info [2019-10-9 6:42:20]thread<4>,clients<1000>,time<1.001085>,send<0>
+Info [2019-10-9 6:42:21]thread<4>,clients<1000>,time<1.001032>,send<0>
+Info [2019-10-9 6:42:22]thread<4>,clients<1000>,time<1.001040>,send<0>
+Info [2019-10-9 6:42:23]thread<4>,clients<1000>,time<1.001234>,send<0>
+Info [2019-10-9 6:42:24]thread<4>,clients<1000>,time<1.001087>,send<0>
+Info [2019-10-9 6:42:25]thread<4>,clients<1000>,time<1.000420>,send<0>
+Info [2019-10-9 6:42:25]不支持的命令。
+Info [2019-10-9 6:42:26]thread<4>,clients<1000>,time<1.000872>,send<0>
+Info [2019-10-9 6:42:27]thread<4>,clients<1000>,time<1.001159>,send<0>
+Info [2019-10-9 6:42:28]thread<4>,clients<1000>,time<1.000092>,send<0>
+Info [2019-10-9 6:42:28]退出cmdThread线程
+Info [2019-10-9 6:42:28]已退出。
+Info [2019-10-9 6:42:28]<socket=260> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:28]error, create socket failed...
+Info [2019-10-9 6:42:28]<socket=264> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:28]error, create socket failed...
+Info [2019-10-9 6:42:28]<socket=268> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:28]error, create socket failed...
+Info [2019-10-9 6:42:28]<socket=272> connect <192.168.1.102:4567> failed...
+Info [2019-10-9 6:42:28]error, create socket failed...

@@ -1,0 +1,52 @@
+Info [2019-10-9 6:41:43]CELLLog::setLogPath success,<serverLog.txt,w>
+Info [2019-10-9 6:41:43]create socket<232> success...
+Info [2019-10-9 6:41:43]bind port<4567> success...
+Info [2019-10-9 6:41:43]listen port<232> success...
+Info [2019-10-9 6:41:44]thread<4>,time<1.000834>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:45]thread<4>,time<1.000587>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:46]thread<4>,time<1.000365>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:47]thread<4>,time<1.000413>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:48]thread<4>,time<1.000225>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:49]thread<4>,time<1.000196>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:50]thread<4>,time<1.000007>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:51]thread<4>,time<1.000008>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:52]thread<4>,time<1.000142>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:53]thread<4>,time<1.000426>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:54]thread<4>,time<1.001001>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:55]thread<4>,time<1.000110>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:56]thread<4>,time<1.000084>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:57]thread<4>,time<1.000025>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:58]thread<4>,time<1.000015>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:41:59]thread<4>,time<1.000421>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:0]thread<4>,time<1.000029>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:1]thread<4>,time<1.000000>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:2]thread<4>,time<1.000142>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:3]thread<4>,time<1.000000>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:4]thread<4>,time<1.000021>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:5]thread<4>,time<1.000056>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:6]thread<4>,time<1.000040>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:7]thread<4>,time<1.000976>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:8]thread<4>,time<1.000088>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:9]thread<4>,time<1.000931>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:10]thread<4>,time<1.000146>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:11]thread<4>,time<1.000402>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:12]thread<4>,time<1.000970>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:13]thread<4>,time<1.000023>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:14]thread<4>,time<1.000966>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:15]thread<4>,time<1.000122>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:16]thread<4>,time<1.000049>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:17]thread<4>,time<1.000001>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:18]thread<4>,time<1.000050>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:19]thread<4>,time<1.000053>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:20]thread<4>,time<1.000424>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:21]thread<4>,time<1.000034>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:22]thread<4>,time<1.000021>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:23]thread<4>,time<1.000222>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:24]thread<4>,time<1.000116>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:25]thread<4>,time<1.000288>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:26]thread<4>,time<1.000748>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:27]thread<4>,time<1.000392>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:28]thread<4>,time<1.000052>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:29]thread<4>,time<1.000028>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:30]thread<4>,time<1.000000>,socket<232>,clients<0>,recv<0>,msg<0>
+Info [2019-10-9 6:42:31]thread<4>,time<1.000920>,socket<232>,clients<0>,recv<0>,msg<0>
